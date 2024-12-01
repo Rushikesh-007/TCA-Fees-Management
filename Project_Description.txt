@@ -1,0 +1,3 @@
+Developed a fee management web application for Techno Comp Academy using HTML, CSS, Bootstrap for 
+frontend and Java, Servlet, JSP, JDBC for backend, with PostgreSQL for database management. Implemented a 
+admin module for efficient student fee management, handling backend logic and database interactions. 
